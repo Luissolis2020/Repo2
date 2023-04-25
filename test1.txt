@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is BAC5-9D78
+
+ Directory of C:\Users\texic\Desktop\MyProjects
+
+04/24/2023  10:45 PM    <DIR>          .
+04/24/2023  10:45 PM    <DIR>          ..
+04/24/2023  10:45 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  113,013,358,592 bytes free
